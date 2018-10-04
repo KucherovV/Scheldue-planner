@@ -1,0 +1,11 @@
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\bin\Debug\LessonSchelduer2.exe.config
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\bin\Debug\LessonSchelduer2.exe
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\bin\Debug\LessonSchelduer2.pdb
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\obj\Debug\LessonSchelduer2.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\obj\Debug\LessonSchelduer2.Form1.resources
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\obj\Debug\LessonSchelduer2.Properties.Resources.resources
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\obj\Debug\LessonSchelduer2.csproj.GenerateResource.Cache
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\obj\Debug\LessonSchelduer2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\obj\Debug\LessonSchelduer2.exe
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\obj\Debug\LessonSchelduer2.pdb
+c:\users\user\source\repos\LessonSchelduer2\LessonSchelduer2\bin\Debug\Newtonsoft.Json.dll
